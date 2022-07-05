@@ -1,8 +1,9 @@
 //import * as THREE from 'three';
 //import * as JSDOM from 'jsdom';
-const THREE = require('three');
-const JSDOM = require("jsdom").JSDOM;
-global.document = new JSDOM(html).window.document;
+//const THREE = require('three');
+//const JSDOM = require("jsdom").JSDOM;
+
+//global.document = new JSDOM(html).window.document;
 
 const scene = new THREE.Scene();
 
